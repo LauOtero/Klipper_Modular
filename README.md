@@ -17,6 +17,8 @@ Modo de activar la configuración de la impresora:
 	pins        -> PINS MCUS (btt_e3_rrf_board_pins, btt_gtr1_board_pins, btt_mini_e2_v2_board_pins, btt_mot-exp, btt_optopus_board_pins, btt_skr1.4t_board_pins, btt_skr2_board_pins, fysetc_spider_board_pins, mks_genlv2.1_boards_pins, mks_gen_l_v1_board_pins, mks_sgenlv2_boards_pins)
 
 	probe       -> SENSORES CALIBRACIÓN (bl-touch, pinda, probe)
+	
+	script      -> GENERADOR GRAFICAS (resonancia X e Y)
 
 	shell_command -> COMANDOS DEL SISTEMA (shell_cmd_backup, shell_command)
 
