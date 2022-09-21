@@ -1,0 +1,7 @@
+ADXL345     RPi Zero    spi0a   spi0b   spi0c   spi1a	spi1b
+VIN/VCC     3V3 Out     36      36      36      36      36
+GND         GND         38      38      38      38      38
+CS          SPI0 CSn    GP1     GP5     GP17    GP9     GP13
+SDO         SPI0 RX     GP0     GP4     GP16    GP8     GP12
+SDA         SPI0 TX     GP3     GP7     GP19    GP11    GP15
+SCL         SPI0 SCK    GP2     GP6     GP18    GP10    GP14
