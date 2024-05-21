@@ -1,5 +1,7 @@
 "# Klipper_Modular" 
 
+[<img width="171" alt="kofi_s_tag_dark" src="https://github.com/LauOtero/Klipper_Modular/blob/main/Ko-fi-Logo.png">](https://ko-fi.com/laureotero)
+
 Modo de activar la configuración de la impresora:
 
 1.- El archivo printer.cfg contiene los includes a estas carpetas:
